@@ -1,0 +1,42 @@
+{
+  "xml_statutory_units": 24,
+  "parsed_units": 24,
+  "ids": [
+    "p1",
+    "p2",
+    "p3",
+    "p4",
+    "p5",
+    "p6",
+    "p7",
+    "p8",
+    "p9",
+    "p10",
+    "p11",
+    "p12",
+    "p13",
+    "p14",
+    "p15",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20",
+    "p21",
+    "p22",
+    "p23",
+    "p24"
+  ],
+  "duplicate_ids": false,
+  "annexes": 0,
+  "repealed_units": [],
+  "xml_character_sequence_mismatches": [],
+  "all_units_nonempty": true,
+  "intake_comparison": {
+    "path": "/Volumes/LaCie/law-intake/eu/de/gesetze/gii-schvg.md",
+    "same_last_amendment": true,
+    "units_not_contiguous_ignoring_whitespace": [],
+    "note": "Markdown-Layout kann Vergleich erschweren; maßgeblich ist der vollständige direkte XML-Zeichenvergleich."
+  },
+  "ok": true
+}

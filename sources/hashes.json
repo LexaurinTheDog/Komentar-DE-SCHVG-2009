@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-10-19T12:36:02.507205+00:00",
+  "sha256": {
+    "IX_ZR_196-20.json": "617bfcdba078facf764b565597fbfa8fe43f55b67e3efb0deca1e96a72235790",
+    "IX_ZR_196-20.pdf": "aeb1e139b7ae1d26afa8e12dd5dab0088b98f91b7271d4ce8ab5022c98203b56",
+    "IX_ZR_196-20.txt": "bcd967c19ed6c18f3092339808b6f635e7cd115520bb09d3d3579549331858df",
+    "IX_ZR__77-20.json": "605072cc696c390c9f8f411d1fdf5ab17fda04c75e68b4539d772be788d0d16f",
+    "IX_ZR__77-20.pdf": "c45528d2366485744f954d2020a60b1ae9c6756dc8f566d184860fea746d775f",
+    "IX_ZR__77-20.txt": "00af1c0d1d41d728fa0e7c13a0216a8aed58f5bcca57f94f439ecaff88bcca70",
+    "bgh-196-20.md": "3959840bd16611eaf5447a8d3a7766e936a8194c5ae6e20a3cdc011a89f24a0e",
+    "bgh-77-20.md": "dca7565410c62609d47fb26ccb12e9f26d3f1a38db6f69811f9104e40dc6df9f",
+    "canonical.md": "d6be6ba7cb802d7318c314d4d9a094eceb4151fcd2601d0ff28cd185e9e400fb",
+    "failed-old-link-response.html": "ba44ab01d4ec4ae02f21e87182d2686d670114603640c262859e9ab4307d59cc",
+    "official.xml": "1e66e0c3d1b13b1731ffa4ae0058f4c2d34cb851a65e4fb4c6433d16ef575a71",
+    "official.zip": "41a6cb8214df67742ce4ad77c8636f6bedf860b8fdee1d0efe2cd6f0e104aaaa",
+    "retrieval.json": "8eb94bf0a44315f925d4a0f6cdc4ef6b7e6b210349207d89e12f608cdd47b1ca",
+    "search-cases.json": "a5674b247343c1ff67db8de6132f98971aaa8549eb42b20ebb9ff60ae4e651dd"
+  }
+}
