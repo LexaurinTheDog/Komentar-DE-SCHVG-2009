@@ -1,0 +1,82 @@
+{
+  "complete": true,
+  "units_reviewed": 24,
+  "unresolved_blockers": [],
+  "findings": [
+    {
+      "id": "S-R1",
+      "severity": "medium",
+      "units": [
+        "p5"
+      ],
+      "finding": "Zusätzlicher Zustimmungsvergleich bei Aufhebung der Kündigungswirkung war nur abstrakt benannt.",
+      "correction": "Einfache Mehrheit und zusätzliche gesetzliche Anforderung, dass mehr Gläubiger zustimmen als gekündigt haben, getrennt erläutert; einfache/qualifizierte Mehrheiten systematisiert.",
+      "evidence": [
+        "sources/official.xml",
+        "sources/review-bt-1612814.txt (Drucksache S. 19)"
+      ],
+      "status": "resolved"
+    },
+    {
+      "id": "S-R2",
+      "severity": "medium",
+      "units": [
+        "p6"
+      ],
+      "finding": "Nichtteilnahme war als Kurzform der verbotenen Gegenleistung für Nichtabstimmung zu eng.",
+      "correction": "Nichtabgabe einer Stimme erfasst ausdrücklich auch einen anwesenden Gläubiger.",
+      "evidence": [
+        "sources/official.xml (§ 6 Abs. 2 und 3)"
+      ],
+      "status": "resolved"
+    }
+  ],
+  "limitations": [
+    "Unabhängige redaktionelle Zweitprüfung eines anderen Autorenmanuskripts; keine externe anwaltliche oder wissenschaftliche Freigabe.",
+    "Gezielte amtliche Rechtsprechungsprüfung, keine erschöpfende Suche zu jeder Vorschrift und keine Negativbehauptung über weitere Entscheidungen.",
+    "Keine vollständige historische Fassungsprüfung und keine Vollkommentierung sämtlicher Verweisungsnormen.",
+    "Technische Vollständigkeit und Mindestlänge sind keine eigenständigen Nachweise materieller Richtigkeit."
+  ],
+  "reviewed_at": "2026-10-19T12:41:55.740262+00:00",
+  "mode": "independent_second_pass_of_other_author",
+  "unit_review_evidence": "sources/review-completeness.json",
+  "source_reverification": {
+    "url": "https://www.gesetze-im-internet.de/schvg/xml.zip",
+    "http_status": 200,
+    "retrieved_at": "2026-10-19T12:37:30.735618+00:00",
+    "sha256": "41a6cb8214df67742ce4ad77c8636f6bedf860b8fdee1d0efe2cd6f0e104aaaa",
+    "xml_sha256": "1e66e0c3d1b13b1731ffa4ae0058f4c2d34cb851a65e4fb4c6433d16ef575a71",
+    "identical_to_author_xml": true,
+    "headers": {
+      "Date": "Mon, 19 Oct 2026 12:37:30 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Wed, 06 May 2026 15:58:23 GMT",
+      "ETag": "\"2856-651283bc934d2\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "10326",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "application/zip",
+      "Connection": "close"
+    }
+  },
+  "validation": {
+    "repo": "Komentar-DE-SCHVG-2009",
+    "units": 24,
+    "verbatim_ratio": 1.0,
+    "commentary_chars": 36502,
+    "errors": [],
+    "warnings": [],
+    "ok": true
+  },
+  "validated_manuscript_commit": "44bfb22520bb3f0fdd474cb9b45a2c59f3ac667d",
+  "additional_checks": {
+    "local_links_checked": 22,
+    "missing_links": [],
+    "license_matches_canonical": true,
+    "all_review_findings_resolved": true,
+    "review_units": 24
+  },
+  "external_professional_approval": false
+}

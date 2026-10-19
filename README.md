@@ -15,3 +15,5 @@ Vollständiger deutscher Kommentar zu 24 Paragraphen in 3 Kapiteln. Stand: **202
 Der Gesetzestext ist mechanisch aus dem am angegebenen Datum abgerufenen XML von Gesetze im Internet extrahiert. Jede Vorschrift enthält einen eigenständigen Auslegungstext mit Voraussetzungen, Folgen und praktischer Anwendung. Rechtsprechung wird ausschließlich im ausgewiesenen verifizierten Umfang verwendet. Die Recherche beansprucht keine Vollständigkeit.
 
 Kommentartext © 2026 Vojtěch Říha. Lizenz **Apache-2.0**, siehe [LICENSE](LICENSE). Bereitstellung wie vorhanden, keine individuelle Rechtsberatung. [Projektkonto](https://github.com/LexaurinTheDog). Lokales Repository ohne Push.
+
+Die Apache-2.0-Lizenz bezeichnet den eigenen Kommentartext. Amtliche Gesetzes- und Entscheidungstexte sowie gesicherte Webseiten werden als Quellenbelege getrennt ausgewiesen; eine pauschale Neulizenzierung sämtlicher darin enthaltener Drittinhalte wird nicht behauptet.
