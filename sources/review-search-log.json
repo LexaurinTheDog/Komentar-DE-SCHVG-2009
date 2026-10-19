@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-19T12:41:01.906056+00:00",
+  "scope": "Source and cited-case audit plus targeted clarification searches; no comprehensive case research claimed.",
+  "queries": [
+    "site.bundesgerichtshof.de SchVG 5 25 Prozent Köpfe Kündigung 2016",
+    "\"SchVG\" \"mehr Gläubiger\" \"Köpfen\"",
+    "\"SchVG\" \"Abs. 5\" \"Kopfmehrheit\"",
+    "\"SchVG\" \"mehr Gläubiger\" \"Nennwert\""
+  ],
+  "used_primary_evidence": "Statute and official judgment snapshots; additional official Parliament/EUR-Lex materials only. Third-party discovery snippets not used as legal authority.",
+  "reverified_cases": [
+    "Both original official BGH PDFs fetched again, byte-identical, full text checked; findings of lower court separated from BGH reasoning."
+  ]
+}

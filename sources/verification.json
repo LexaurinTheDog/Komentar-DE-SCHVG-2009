@@ -1,0 +1,33 @@
+{
+  "author_retrieval": {
+    "url": "https://www.gesetze-im-internet.de/schvg/xml.zip",
+    "retrieved_at": "2026-10-19T12:26:48.706496+00:00",
+    "sha256": "41a6cb8214df67742ce4ad77c8636f6bedf860b8fdee1d0efe2cd6f0e104aaaa",
+    "xml_sha256": "1e66e0c3d1b13b1731ffa4ae0058f4c2d34cb851a65e4fb4c6433d16ef575a71",
+    "http_status": 200
+  },
+  "independent_review_retrieval": {
+    "url": "https://www.gesetze-im-internet.de/schvg/xml.zip",
+    "http_status": 200,
+    "retrieved_at": "2026-10-19T12:37:30.735618+00:00",
+    "sha256": "41a6cb8214df67742ce4ad77c8636f6bedf860b8fdee1d0efe2cd6f0e104aaaa",
+    "xml_sha256": "1e66e0c3d1b13b1731ffa4ae0058f4c2d34cb851a65e4fb4c6433d16ef575a71",
+    "identical_to_author_xml": true,
+    "headers": {
+      "Date": "Mon, 19 Oct 2026 12:37:30 GMT",
+      "Server": "Apache",
+      "Last-Modified": "Wed, 06 May 2026 15:58:23 GMT",
+      "ETag": "\"2856-651283bc934d2\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "10326",
+      "X-Content-Type-Options": "nosniff",
+      "X-Frame-Options": "sameorigin",
+      "X-XSS-Protection": "1; mode=block",
+      "Content-Type": "application/zip",
+      "Connection": "close"
+    }
+  },
+  "expected_xml_format_validated": true,
+  "intake_modified": false,
+  "source_version_change_map": "Author XML and independently retrieved XML are byte-identical. Statutory units and canonical source unchanged; substantive editorial corrections listed in REVIEW.md."
+}
