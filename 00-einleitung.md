@@ -21,4 +21,4 @@ Die Rechtsprechungsrecherche ist gezielt, nicht vollständig. Nur tatsächlich g
 
 Entwurf mit technischen Prüfungen, keine externe fachanwaltliche oder wissenschaftliche Begutachtung. Ein bestandener Mindestlängentest belegt keine inhaltliche Richtigkeit. Vor Verwendung in einem konkreten Mandat sind Rechtsstand, Tatsachen, Fristen und einschlägige weitere Rechtsprechung erneut zu prüfen. Nutzung wie bereitgestellt; keine individuelle Rechtsberatung.
 
-Kommentartext © 2026 Vojtěch Říha. Lizenz: Apache-2.0, siehe [LICENSE](LICENSE). Projektkonto: [LexaurinTheDog](https://github.com/LexaurinTheDog). Es erfolgt keine Veröffentlichung durch diesen Arbeitslauf.
+Kommentartext © 2026 Vojtěch Říha. Lizenz: Apache-2.0, siehe [LICENSE](LICENSE). Projektkonto: [LexaurinTheDog](https://github.com/LexaurinTheDog).
